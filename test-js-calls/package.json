@@ -1,0 +1,16 @@
+{
+  "name": "learnpuppeteer",
+  "version": "1.0.0",
+  "description": "learning puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "avikash gorka",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.18.1",
+    "xlsx": "^0.14.3"
+  }
+}
